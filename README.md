@@ -1,4 +1,3 @@
-# Weather-App
 # 🌦️ Weather App
 
 A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**. It uses the **OpenWeatherMap API** to fetch and display real-time weather information for any city entered by the user.
@@ -35,18 +34,9 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 
 ## 📁 Project Structure
 weather-app/
-├── index.html # Main HTML page
-├── style.css # Styling file
-├── script.js # JavaScript logic
-└── README.md # Project documentation
-
-🔑 Get Your API Key
-Go to https://openweathermap.org/api
-
-Sign up or log in
-
-Navigate to API Keys
-
-Create a key and copy it
-
-Paste it inside script.js:
+weather-app/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── screenshot.png 
